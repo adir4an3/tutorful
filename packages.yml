@@ -1,0 +1,4 @@
+packages:
+  - package: godatadriven/dbt_date
+    version: [">=0.15.0", "<0.16.0"]
+    # <see https://github.com/godatadriven/dbt-date/tags> for the latest version tag

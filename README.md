@@ -119,7 +119,7 @@ order by event_date
 
 ## Sample output — February 2026
 
-![February 2026 daily churn and reactivation](Feb 2026 - Churn vs Reactivation.png)
+![February 2026 daily churn and reactivation](Feb_2026_results.png)
 
 ---
 

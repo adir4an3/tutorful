@@ -149,7 +149,6 @@ Useful for calibrating the timing of re-engagement campaigns.
 **Generic tests** (defined in `schema.yml`)
 - `unique` and `not_null` on all primary keys across every model
 - `accepted_values` on `lesson_status` — enforces only 'completed' / 'cancelled'
-- `dbt_utils.expression_is_true: > 30` on `days_since_previous_lesson` — confirms the gap threshold is correctly applied
 
 **Singular tests**
 - `assert_reactivation_after_churn` — reactivation_date must always be strictly after churn_date

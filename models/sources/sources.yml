@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: source
+    database: inspiring-code-334417
+    schema: source
+    tables:
+      - name: lessons
+      - name: lesson_bookings
+      - name: relationships
+      - name: subjects

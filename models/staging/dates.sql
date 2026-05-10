@@ -1,0 +1,1 @@
+{{ dbt_date.get_date_dimension("2024-12-01", "2026-05-31") }}
